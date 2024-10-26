@@ -1,6 +1,6 @@
 # LLLMapi
 
-A learning project for creating a local service that manages LLM interactions through browser automation.
+A project for creating a local service that manages LLM interactions through browser automation.
 
 ## Setup
 
